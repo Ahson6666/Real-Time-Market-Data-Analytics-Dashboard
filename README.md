@@ -23,7 +23,7 @@ mvn spring-boot:run
 
 Live Data: http://localhost:8080/api/market/hsi
 
-**Skills Demonstrated
+**##  Skills Demonstrated**
 **Time-series data handling
 Technical analysis (SMA/EMA)
 Spring Boot REST + caching
